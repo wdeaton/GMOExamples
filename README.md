@@ -41,3 +41,7 @@ To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/
 ## Gmo Science
 
 To view Blog two about GMOs, click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
+
+## Authors Note
+
+To view this Blog, click here! [Authors Opinoin](https://wdeaton.github.io/GMO-Opinion/)
