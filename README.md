@@ -21,6 +21,17 @@ These are some of the GMO crops available today with more in research and testin
 - Chickens: These chickens, still in progress, now have a gene that interrupts the transmission of the avian flu.
 
 There are many more GMOs out there, but I hope this list gives a few examples of what GMOs are out there now. 
-https://www.theguardian.com/environment/2018/jun/24/genetically-engineered-animals-the-five-controversial-science
-https://news.nationalgeographic.com/news/2010/03/100330-bacon-pigs-enviropig-dead-zones/
-https://www.bestfoodfacts.org/what-foods-are-gmo/
+
+---
+
+## Home Page
+
+To go back to the home page, click here! [Home](https://wdeaton.github.io/GMO-Introduction/)
+
+## Gmo History
+
+To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
+
+## Gmo Science
+
+To view Blog two about GMOs, click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
