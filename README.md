@@ -12,6 +12,8 @@ We have discussed the history of GMOs and then the science behind them, lets now
 - Artic Apple: This apple has had the amount of enzymes, that cause the apple to brown, to be reduced thus allowing the apple to brown more slowly when bitten or bruised. 
 - Innate Potato: Resists browning and brusises. 
 
+![gmoinfographic](https://user-images.githubusercontent.com/43043543/47854593-246e6f80-ddb0-11e8-85bb-a90723c80a36.png)
+
 These are some of the GMO crops available today with more in research and testing. Now that we have seen GMO crops, we can now discuss GMO animals. In animals it is harder to distinguish the difference between them being genetically modifed organism(GMO) or just genetically modified(GM). Farmers have been gentically modifying animals for thousands of years and it has become easier today with artificial insemination. 
 
 - Aquabounty Salmon: This new salmon is modified to reach the market size quicker and other farm raised Atlantic salmon. 
