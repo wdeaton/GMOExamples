@@ -23,6 +23,7 @@ These are some of the GMO crops available today with more in research and testin
 - Chickens: These chickens, still in progress, now have a gene that interrupts the transmission of the avian flu.
 
 ![salmon](https://user-images.githubusercontent.com/43043543/47855007-559b6f80-ddb1-11e8-8c29-b053fe40ac88.jpg)
+These Atlantic Salmon are the same age, however the one in the back has been genetically modified. 
 
 There are many more GMOs out there, but I hope this list gives a few examples of what GMOs are out there now. 
 
